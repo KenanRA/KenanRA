@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Kanan and I'm currently learning.</h2>
-<img align="center" height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"  />
+
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KenanRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +13,7 @@
 
 <br clear="both">
 
-
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"  />
 
 ###
 
@@ -48,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KenanRA/KenanRA/output/snake.svg" alt="Snake animation" />
+
 
 ###
